@@ -1,7 +1,8 @@
 # How to Stop Your Hands from Shaking at Competitions
 
 - Video: https://youtu.be/98y88lXtafA
-- Mind Map: https://app.xmind.com/Ngc9KfTN
+- PDF: https://github.com/Roman-/overcoming-stress-at-speedcubing-competitions/blob/master/mindmap.pdf
+- XMind: https://app.xmind.com/Ngc9KfTN
 
 ---
 
